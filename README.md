@@ -7,7 +7,7 @@
 
 http://graph.org/file/dc965ccd94c1e78d3c201.jpg
 
-![made-in-kozhikode](https://raw.githubusercontent.com/TheoIsDumb/charapara/master/static/kunnamkulam_optimized.svg)
+
 <!---
 MrBoss002/MrBoss002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
