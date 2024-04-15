@@ -5,8 +5,10 @@
 - 😄 Pronouns: Mr Boss 002
 - ⚡ Fun fact:Deeply Learning
 
-http://graph.org/file/dc965ccd94c1e78d3c201.jpg
 
+<p align="center">
+<a href="https://t.me/MrBoss002"><img src="http://graph.org/file/dc965ccd94c1e78d3c201.jpg" /></a>
+</p>
 
 <!---
 MrBoss002/MrBoss002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
