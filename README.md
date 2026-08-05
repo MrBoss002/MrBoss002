@@ -91,10 +91,10 @@
     <img src="https://img.shields.io/badge/Follow_Twitter-@MrBoss___002-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
   </a>
   <a href="https://t.me/WinDigitalMoney" target="_blank">
-    <img src="https://img.shields.io/badge/Join_Channel-Mallu_Hub-0088CC?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Channel" />
+    <img src="https://img.shields.io/badge/Join_Channel-DIGITAL-MARKETING-0088CC?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Channel" />
   </a>
   <a href="https://instagram.com/MrBoss002_" target="_blank">
-    <img src="https://img.shields.io/badge/Follow_Instagram-@Mr__Boss__002__-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Follow_Instagram-@MrBoss002_-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
 
