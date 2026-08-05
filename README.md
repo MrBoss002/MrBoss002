@@ -1,35 +1,21 @@
-- 👋 Hi, I’m @MrBoss002
-- 👀 I’m interested in Bot Dev
-- 🌱 I’m currently learning
-- 💞️ I’m looking to collaborate 
-- 😄 Pronouns: Mr Boss 002
-- ⚡ Fun fact:Deeply Learning
-
+<h1 align="center">👋 Hi, I'm @MrBoss002</h1>
+<h3 align="center">🤖 Telegram Bot Developer & Tech Enthusiast</h3>
 
 <p align="center">
-<a href="https://t.me/MrBoss002"><img src="http://graph.org/file/dc965ccd94c1e78d3c201.jpg" /></a>
+  <a href="https://t.me/MrBoss002"><img src="http://graph.org/file/dc965ccd94c1e78d3c201.jpg" width="600" alt="MrBoss002 Banner"/></a>
 </p>
 
-<!---
-MrBoss002/MrBoss002 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-
-### Support Us
-<a href="https://t.me/Mallu_Hub_TG"><img src="https://img.shields.io/badge/Telegram-Join%20Telegram%20Group-blue.svg?logo=telegram"></a>
-
-### Follow On
-<p align="left">
-<a href="https://github.com/MrBoss002"><img src="https://img.shields.io/badge/GitHub-Follow%20on%20GitHub-inactive.svg?logo=github"></a>
-</p>
-<p align="left">
-<a href="https://twitter.com/MrBoss___002"><img src="https://img.shields.io/badge/Twitter-Follow%20on%20Twitter-informational.svg?logo=twitter"></a>
-</p>
-<p align="left">
-<a href="https://t.me/Mallu_Hub"><img src="https://img.shields.io/badge/Facebook-Follow%20on%20Facebook-blue.svg?logo=facebook"></a>
-</p>
-<p align="left">
-<a href="https://instagram.com/Mr_Boss_002_"><img src="https://img.shields.io/badge/Instagram-Follow%20on%20Instagram-important.svg?logo=instagram"></a>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=0088CC&center=true&vCenter=true&width=500&lines=Telegram+Bot+Development;Node.js+%26+JavaScript+Automation;Founder+of+ZeroTwo+OnlineStore;Continuously+Learning+%26+Building" alt="Typing SVG" />
 </p>
 
-Thank You So Much ♥️😊
+---
+
+### 👨‍💻 About Me
+
+```text
+├── 🚀 Expertise       : Telegram Bot Development & Express Web Apps
+├── 💻 Currently Built : Admin Support & Feedback Telegram Bots
+├── 🧠 Learning        : Deepening Full-Stack Development & Automation
+├── 🤝 Collaborations  : Open for Bot Projects & Automation Scripts
+└── ⚡ Fun Fact        : Forever curious, constantly building & learning
