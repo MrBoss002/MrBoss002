@@ -107,16 +107,6 @@
 
 ---
 
-<p align="center">
-  <b>Thank You So Much ♥️😊</b>
-</p>
-
----
-
-<br />
-
----
-
 <div align="center">
 
   <h3>Thank You For Visiting! ♥️😊</h3>
