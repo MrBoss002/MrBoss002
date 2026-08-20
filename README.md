@@ -1,20 +1,23 @@
 <div align="center">
 
-  <img src="http://graph.org/file/dc965ccd94c1e78d3c201.jpg" width="120" height="120" style="border-radius: 50%;" alt="MrBoss002 Logo" />
+<p align="center">
+  <a href="https://github.com/MrBoss002">
+    <img src="https://images.weserv.nl/?url=graph.org/file/dc965ccd94c1e78d3c201.jpg&mask=circle" width="130" height="130" alt="Logo" />
+  </a>
+</p>
 
   <h1>Muhammed Risvan C (@MrBoss002)</h1>
 
   <p>
     <b>⚡ Vibe Coder & Continuous Learner</b> | <b>🎨 Graphic Designer & Editor</b> | <b>🛍️ Founder & CEO of ZeroTwo OnlineStore</b>
   </p>
-
-  <p>
-    <a href="https://github.com/MrBoss002"><img src="https://img.shields.io/github/followers/MrBoss002?label=Followers&style=for-the-badge&color=0088CC&logo=github" alt="GitHub Followers"/></a>
-    <a href="https://t.me/MrBoss002"><img src="https://img.shields.io/badge/Telegram-Direct_Admin-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Direct"/></a>
-    <a href="https://twitter.com/MrBoss___002"><img src="https://img.shields.io/badge/Twitter-@MrBoss___002-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/></a>
-  </p>
+<br />
 
 </div>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MrBoss002&theme=tokyonight&hide_border=true&bg_color=1a1a1a" width="68%" alt="Activity Graph" />
+</p>
 
 ---
 
@@ -45,6 +48,12 @@
   <a href="https://instagram.com/Mr_Boss_002_" target="_blank">
     <img src="https://img.shields.io/badge/Follow_Instagram-ZeroTwo_Store-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://readme-daily-quotes.vercel.app/api?theme=tokyonight&authorColor=333333" alt="Daily Quote" />
 </p>
 
 ---
