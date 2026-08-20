@@ -75,26 +75,33 @@
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=MrBoss002&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" width="48%" alt="GitHub Stats" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=MrBoss002&layout=compact&theme=tokyonight&hide_border=true" width="48%" alt="Top Languages" />
+  <img src="https://github-readme-profile-alpha.vercel.app/api?username=MrBoss002&theme=tokyonight&show_icons=true" width="68%" alt="GitHub Stats" />
 </p>
 
 ---
 
 ## 🌐 Connect With Me
 
-<p align="left">
-  <a href="https://t.me/Mallu_Hub_TG" target="_blank">
-    <img src="https://img.shields.io/badge/Join_Telegram_Group-Mallu_Hub-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Group" />
+<p align="center">
+  <a href="https://www.youtube.com/@MrBoss002">
+    <img src="https://img.shields.io/badge/YouTube-@MrBoss002-333333?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
   </a>
-  <a href="https://twitter.com/MrBoss___002" target="_blank">
-    <img src="https://img.shields.io/badge/Follow_Twitter-@MrBoss___002-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter" />
+  <a href="https://t.me/MrBossTG">
+    <img src="https://img.shields.io/badge/Telegram_Channel-@MrBossTG-333333?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Channel" />
   </a>
-  <a href="https://t.me/WinDigitalMoney" target="_blank">
-    <img src="https://img.shields.io/badge/Join_Channel-DIGITAL_MARKETING-0088CC?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Channel" />
+  <a href="https://t.me/MrBoss002">
+    <img src="https://img.shields.io/badge/Telegram_Contact-@MrBoss002-333333?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Contact" />
   </a>
-  <a href="https://instagram.com/MrBoss002_" target="_blank">
-    <img src="https://img.shields.io/badge/Follow_Instagram-@MrBoss002_-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  <br />
+  
+  <a href="https://pinterest.com/MrBoss002">
+    <img src="https://img.shields.io/badge/Pinterest-@MrBoss002-333333?style=for-the-badge&logo=pinterest&logoColor=white" alt="Pinterest" />
+  </a>
+  <a href="https://x.com/mrboss__002">
+    <img src="https://img.shields.io/badge/Twitter/X-@MrBoss__002-333333?style=for-the-badge&logo=x&logoColor=white" alt="Twitter/X" />
+  </a>
+  <a href="https://instagram.com/mrboss002_">
+    <img src="https://img.shields.io/badge/Instagram-@MrBoss002_-333333?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
 
@@ -103,3 +110,21 @@
 <p align="center">
   <b>Thank You So Much ♥️😊</b>
 </p>
+
+---
+
+<br />
+
+---
+
+<div align="center">
+
+  <h3>Thank You For Visiting! ♥️😊</h3>
+
+  <a href="#top">
+    <img src="https://img.shields.io/badge/Back_To_Top_↑-6366f1?style=flat-square" alt="Back to Top" />
+  </a>
+
+  <p><sub>© 2026 <b>Muhammad Risvan C</b>. Crafted with care for GitHub Profiles.</sub></p>
+
+</div>
