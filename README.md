@@ -9,7 +9,7 @@
   <h1>Muhammed Risvan C (@MrBoss002)</h1>
 
   <p>
-    <b>⚡ Vibe Coder & Continuous Learner</b> | <b>🎨 Graphic Designer & Editor</b> | <b>🛍️ Founder & CEO of ZeroTwo OnlineStore</b>
+    <h4><b>⚡ Vibe Coder & Continuous Learner</b> | <b>🎨 Graphic Designer & Editor</b> | <b>🛍️ Founder & CEO of ZeroTwo OnlineStore</b></h4>
   </p>
 <br />
 
