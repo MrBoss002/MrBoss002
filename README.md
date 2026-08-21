@@ -114,6 +114,13 @@
   </a>
 </p>
 
+
+<p align="center">
+  <a href="https://buymeacoffee.com/MrBoss002">
+    <img src="https://img.shields.io/badge/BUY_ME_A_COFFEE-BD5FFF?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" alt="Buy Me A Coffee" />
+  </a>
+</p>
+
 ---
 
 <div align="center">
