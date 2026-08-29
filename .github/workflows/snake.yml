@@ -6,12 +6,19 @@ on:
   workflow_dispatch:
 
 jobs:
-  generate:
+  github-metrics:
     runs-on: ubuntu-latest
+    permissions:
+      contents: write
     steps:
-      - uses: actions/checkout@v3
-      - uses: snok/github-user-contribution-graph@v1.0.0
+      - uses: lowlighter/metrics@latest
         with:
-          github_token: ${{ secrets.GITHUB_TOKEN }}
-          branch: output
-          svg_out_path: dist/activity-graph.svg
+          token: ${{ secrets.GITHUB_TOKEN }}
+          filename: activity-graph.svg
+          base: ""
+          plugin_activity: yes
+          plugin_activity_limit: 5
+          plugin_activity_days: 14
+          plugin_activity_filter: all
+          output_action: commit
+          committer_branch: output
