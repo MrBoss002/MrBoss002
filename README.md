@@ -16,7 +16,7 @@
 </div>
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=MrBoss002&theme=tokyonight&hide_border=true&bg_color=1a1a1a" width="68%" alt="Activity Graph" />
+  <img src="https://raw.githubusercontent.com/MrBoss002/MrBoss002/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Daily Activity Graph" />
 </p>
 
 ---
