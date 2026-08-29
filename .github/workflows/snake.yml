@@ -6,19 +6,24 @@ on:
   workflow_dispatch:
 
 jobs:
-  generate:
+  build:
     runs-on: ubuntu-latest
-    timeout-minutes: 10
-    steps:
-      - name: generate-activity-graph
-        uses: Ashutosh00710/github-readme-activity-graph@v1.2.0
-        with:
-          token: ${{ secrets.GITHUB_TOKEN }}
-          theme: tokyonight
-          output: dist/activity-graph.svg
+    permissions:
+      contents: write
 
-      - name: push activity-graph.svg to output branch
-        uses: crazy-max/ghaction-github-pages@v3.1.0
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Generate Contribution Snake SVG
+        uses: Platane/snk/svg-only@v3
+        with:
+          github_user_name: MrBoss002
+          outputs: |
+            dist/activity-graph.svg?palette=github-dark
+
+      - name: Deploy SVG to output branch
+        uses: crazy-max/ghaction-github-pages@v4
         with:
           target_branch: output
           build_dir: dist
