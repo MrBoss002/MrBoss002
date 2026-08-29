@@ -6,18 +6,18 @@ on:
   workflow_dispatch:
 
 jobs:
-  build:
+  generate:
     runs-on: ubuntu-latest
-    name: generate-github-readme-activity-graph
+    timeout-minutes: 10
     steps:
-      - uses: actions/checkout@v3
-      - uses: Ashutosh00710/github-readme-activity-graph@v1.2.0
+      - name: generate-activity-graph
+        uses: Ashutosh00710/github-readme-activity-graph@v1.2.0
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-          output: dist/activity-graph.svg
           theme: tokyonight
+          output: dist/activity-graph.svg
 
-      - name: Push SVG to output branch
+      - name: push activity-graph.svg to output branch
         uses: crazy-max/ghaction-github-pages@v3.1.0
         with:
           target_branch: output
