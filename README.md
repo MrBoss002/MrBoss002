@@ -9,7 +9,7 @@
   <h1>Muhammed Risvan C (@MrBoss002)</h1>
 
   <p>
-    <h4><b>⚡ Vibe Coder & Continuous Learner</b> | <b>🎨 Graphic Designer & Editor</b> | <b>🛍️ Founder & CEO of ZeroTwo OnlineStore</b></h4>
+    <h4><b>⚡ Automation & Bot Developer</b> | <b>🎨 Media Designer & Editor</b> | <b>🛍️ Founder & CEO of ZeroTwo OnlineStore</b></h4>
   </p>
 <br />
 
@@ -25,30 +25,34 @@
 
 ## 👨‍💻 About Me
 
-<blockquote align="left">
-  👋 <b>Hi, I'm Muhammed Risvan C</b><br><br>
-  🎓 <b>Lifelong Student:</b> I am constantly learning and upgrading my skills every single day.<br>
-  ⚡ <b>Vibe Coder:</b> I build and deploy applications fast by leveraging AI assistance to write, edit, and optimize code.<br>
-  🛠️ <b>Coding Fundamentals:</b> Basic understanding of HTML, JavaScript, and C++ (studied in Plus One / Plus Two Computer Applications). I know how to edit, structure, and troubleshoot existing code with AI tools.<br>
-  🎨 <b>Creative & Media:</b> Graphic Designer and Editor. I love designing posters, editing videos, photos, and creating visual content.<br>
-  📊 <b>SEO & Web Tools:</b> Experienced in handling Google Tools including Google Search Console, Google Analytics, Google Sheets, and Excel for web tracking and business workflows.<br>
-  🛍️ <b>Entrepreneur:</b> Founder & CEO of <b>ZeroTwo OnlineStore</b>.<br>
-  🤝 <b>Collaboration:</b> Eager to collaborate on open-source repositories to gain more hands-on practical experience in project editing and development.
-</blockquote>
+Hello! I'm **Muhammed Risvan C**, an enthusiastic developer, digital entrepreneur, and visual media designer. I build practical web automation scripts, deploy customized Telegram bots, and manage multi-platform e-commerce workflows.
+
+### 💡 What I Do:
+* 🤖 **Automation & Bot Development:** Building custom tools, automated workflows, and scripts using JavaScript, Node.js, and Python.
+* 💻 **Web Fundamentals & Scripting:** Writing, customizing, and maintaining clean code structures in HTML5, CSS3, JavaScript, and C++.
+* 🎨 **Graphic Design & Video Editing:** Crafting digital brand identities, social media posters, promotional banners, and visual content.
+* 📊 **Web Analytics & Data Management:** Managing business analytics and SEO tracking using Google Search Console, Google Analytics, and Google Sheets.
+* 🚀 **Open Source & Collaboration:** Continuously exploring open-source tools, GitHub Actions, and automated repositories.
 
 ---
 
 ## 🛍️ ZeroTwo OnlineStore
 
-<p align="left">
+> *Your premier destination for curated footwear, stylish wristwear, premium streetwear, and modern tech accessories.*
+
+**ZeroTwo OnlineStore** is an e-commerce platform offering a seamless digital shopping experience. From dropshipping networks and automated customer order processing to curated catalog browsing, ZeroTwo brings quality products straight to social media storefronts.
+
+<br />
+
+<p align="center">
   <a href="https://sites.google.com/view/zerotwo-onlinestore" target="_blank">
-    <img src="https://img.shields.io/badge/Visit_Web_Catalog-ZeroTwo_Store-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Web Catalog" />
+    <img src="https://img.shields.io/badge/Explore_Web_Catalog-ZeroTwo_Store-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Web Catalog" />
   </a>
   <a href="https://t.me/ZeroTwoKerala" target="_blank">
-    <img src="https://img.shields.io/badge/Join_Telegram-@ZeroTwoKerala-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Channel" />
+    <img src="https://img.shields.io/badge/Join_Telegram_Channel-@ZeroTwoKerala-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Channel" />
   </a>
   <a href="https://instagram.com/Mr_Boss_002_" target="_blank">
-    <img src="https://img.shields.io/badge/Follow_Instagram-ZeroTwo_Store-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+    <img src="https://img.shields.io/badge/Follow_On_Instagram-ZeroTwo_Store-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
 
@@ -62,17 +66,17 @@
 
 ## 🛠️ Skills & Tools
 
-### 💻 Programming & Frameworks
+### 💻 Programming & Automation
 <p align="left">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white" alt="C++" />
-  <img src="https://img.shields.io/badge/AI_Coding_Assistance-000000?style=for-the-badge&logo=openai&logoColor=white" alt="AI Assisted" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white" alt="GitHub Actions" />
 </p>
 
-### 🎨 Design & Web Tools
+### 🎨 Design, Analytics & Management
 <p align="left">
   <img src="https://img.shields.io/badge/Graphic_Design-FF61F6?style=for-the-badge&logo=adobe&logoColor=white" alt="Graphic Design" />
   <img src="https://img.shields.io/badge/Photo_%26_Video_Editing-00C4CC?style=for-the-badge&logo=canva&logoColor=white" alt="Photo Video Editing" />
@@ -93,32 +97,29 @@
 
 ## 🌐 Connect With Me
 
-<p align="center">
-  <a href="https://www.youtube.com/@MrBoss002">
-    <img src="https://img.shields.io/badge/YouTube-@MrBoss002-333333?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" />
-  </a>
-  <a href="https://t.me/MrBossTG">
-    <img src="https://img.shields.io/badge/Telegram_Channel-@MrBossTG-333333?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Channel" />
-  </a>
-  <a href="https://t.me/MrBoss002">
-    <img src="https://img.shields.io/badge/Telegram_Contact-@MrBoss002-333333?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Contact" />
-  </a>
-  <br />
-  
-  <a href="https://pinterest.com/MrBoss002">
-    <img src="https://img.shields.io/badge/Pinterest-@MrBoss002-333333?style=for-the-badge&logo=pinterest&logoColor=white" alt="Pinterest" />
-  </a>
-  <a href="https://x.com/mrboss__002">
-    <img src="https://img.shields.io/badge/Twitter/X-@MrBoss__002-333333?style=for-the-badge&logo=x&logoColor=white" alt="Twitter/X" />
-  </a>
-  <a href="https://instagram.com/mrboss002_">
-    <img src="https://img.shields.io/badge/Instagram-@MrBoss002_-333333?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-</p>
+> *Feel free to reach out to me for project collaborations, technical inquiries, or just to say hi!*
 
+<br />
+
+<div align="center">
+
+| 📩 Direct Messaging | 📢 Official Channel | 📺 Video Content |
+| :---: | :---: | :---: |
+| <a href="https://t.me/MrBoss002" target="_blank"><img src="https://img.shields.io/badge/Telegram-@MrBoss002-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Contact" /></a> | <a href="https://t.me/MrBossTG" target="_blank"><img src="https://img.shields.io/badge/Channel-@MrBossTG-24A1DE?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Channel" /></a> | <a href="https://www.youtube.com/@MrBoss002" target="_blank"><img src="https://img.shields.io/badge/YouTube-@MrBoss002-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a> |
+| **📸 Social Media** | **🐦 Microblogging** | **📌 Visual Inspiration** |
+| <a href="https://instagram.com/mrboss002_" target="_blank"><img src="https://img.shields.io/badge/Instagram-@MrBoss002_-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a> | <a href="https://x.com/mrboss__002" target="_blank"><img src="https://img.shields.io/badge/Twitter/X-@MrBoss__002-000000?style=for-the-badge&logo=x&logoColor=white" alt="Twitter/X" /></a> | <a href="https://pinterest.com/MrBoss002" target="_blank"><img src="https://img.shields.io/badge/Pinterest-@MrBoss002-BD081C?style=for-the-badge&logo=pinterest&logoColor=white" alt="Pinterest" /></a> |
+
+</div>
+---
+
+## ☕ Support My Work
+
+> *If you find my open-source projects, automated tools, or custom Telegram scripts helpful, consider supporting my ongoing development work! Every coffee fuels more code and continuous learning.*
+
+<br />
 
 <p align="center">
-  <a href="https://buymeacoffee.com/MrBoss002">
+  <a href="https://buymeacoffee.com/MrBoss002" target="_blank">
     <img src="https://img.shields.io/badge/BUY_ME_A_COFFEE-BD5FFF?style=for-the-badge&logo=buy-me-a-coffee&logoColor=white" alt="Buy Me A Coffee" />
   </a>
 </p>
@@ -133,6 +134,6 @@
     <img src="https://img.shields.io/badge/Back_To_Top_↑-6366f1?style=flat-square" alt="Back to Top" />
   </a>
 
-  <p><sub>© 2026 <b>Muhammad Risvan C</b>. Crafted with care for GitHub Profiles.</sub></p>
+  <p><sub>© 2026 <b>Muhammed Risvan C</b>. Crafted with care for GitHub Profiles.</sub></p>
 
 </div>
