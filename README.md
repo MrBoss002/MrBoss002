@@ -20,7 +20,6 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/MrBoss002/MrBoss002/output/activity-graph.svg" width="100%" alt="Activity Line Graph" />
 </p>
-
 ---
 
 ## 👨‍💻 About Me
