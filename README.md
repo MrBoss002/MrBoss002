@@ -18,7 +18,7 @@
 ---
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/MrBoss002/MrBoss002/output/github-contribution-grid-snake-dark.svg" width="100%" alt="Daily Activity Graph" />
+  <img src="https://raw.githubusercontent.com/MrBoss002/MrBoss002/output/dist/activity-graph.svg" width="100%" alt="Daily Activity Graph" />
 </p>
 
 ---
