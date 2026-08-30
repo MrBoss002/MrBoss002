@@ -44,17 +44,15 @@ Hello! I'm **Muhammed Risvan C**, an enthusiastic developer, digital entrepreneu
 
 <br />
 
-<p align="center">
-  <a href="https://sites.google.com/view/zerotwo-onlinestore" target="_blank">
-    <img src="https://img.shields.io/badge/Explore_Web_Catalog-ZeroTwo_Store-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Web Catalog" />
-  </a>
-  <a href="https://t.me/ZeroTwoKerala" target="_blank">
-    <img src="https://img.shields.io/badge/Join_Telegram_Channel-@ZeroTwoKerala-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Channel" />
-  </a>
-  <a href="https://instagram.com/Mr_Boss_002_" target="_blank">
-    <img src="https://img.shields.io/badge/Follow_On_Instagram-ZeroTwo_Store-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
-  </a>
-</p>
+<div align="center">
+
+  | 🌐 Web Catalog | 📢 Telegram Channel | 📸 Instagram Page |
+| :---: | :---: | :---: |
+| <a href="https://sites.google.com/view/zerotwo-onlinestore" target="_blank"><img src="https://img.shields.io/badge/Explore-ZeroTwo_Store-ff0000?style=for-the-badge&logo=google&logoColor=white" alt="Web Catalog" /></a> | <a href="https://t.me/ZeroTwoKerala" target="_blank"><img src="https://img.shields.io/badge/Join-@ZeroTwoKerala-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram Channel" /></a> | <a href="https://instagram.com/Mr_Boss_002_" target="_blank"><img src="https://img.shields.io/badge/Follow-ZeroTwo_Store-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" /></a> |
+
+</div>
+
+<br />
 
 ---
 
